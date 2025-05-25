@@ -1,12 +1,7 @@
 # POLLA-VISHNU-VARDHAN
 <h1 align="center">Hi, I'm POLLA VISHNU VARDHAN ! 👋</h1>
 
-### 🚀 Web Developer | IoT & ML Enthusiast | Open Source Contributor
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/polla-vishnu-vardhan/">LinkedIn</a> 
-  <a href="vishnumaxpolla32@gmai.com">Email</a>
-</p>
+### 🚀 Web Developer | AI & ML Enthusiast | Open Source Contributor |
 
 ---
 
@@ -22,34 +17,36 @@
 
 ### 🧰 Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</p>
+
 
 
 ---
 
 ### 💻 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishnuVardhanCodes&show_icons=true&theme=radical)
+<h3 align="center" style="color: orange;">GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishnuVardhanCodes&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+</p>
+
 ---
 
 ### 🧠 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuVardhanCodes&layout=compact&theme=radical)
-
----
-
-## 🚀 Top Languages
-
-### 🛠️ My Technical Skills
+<h3 align="center" style="color: orange;">My Technical Skills</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=POLLA-VISHNU-VARDHAN&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuVardhanCodes&layout=compact&theme=tokyonight" />
 </p>
 
 ---
