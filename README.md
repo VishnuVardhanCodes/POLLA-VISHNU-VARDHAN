@@ -54,7 +54,7 @@
 ## 🚀 Dynamic Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=POLLA-VISHNU-VARDHAN&style=flat-square&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=VishnuVardhanCodes&style=flat-square&color=brightgreen" alt="Profile Views" />
 </p>
 
 
